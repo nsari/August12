@@ -5,6 +5,7 @@ public class Nuray {
         System.out.println("Good Job");
         System.out.println("nuray");
         System.out.println("nuray");
+        int a = 8;
 
     }
 }
